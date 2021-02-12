@@ -1,5 +1,5 @@
 {
-  "name": "scrimba-challenge",
+  "name": "guess-my-card",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cynthiateeters/scrimba-challenge.git"
+    "url": "git+https://github.com/rvcc-idmx/guess-card-template.git"
   },
-  "author": "Cynthia Teeters",
-  "license": "ISC",
+  "author": "IDMX 244 Student",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cynthiateeters/scrimba-challenge/issues"
+    "url": "https://github.com/rvcc-idmx/guess-card-template/issues"
   },
-  "homepage": "https://github.com/cynthiateeters/scrimba-challenge#readme",
+  "homepage": "https:https://github.com/rvcc-idmx/guess-card-template#readme",
   "devDependencies": {
     "@babel/cli": "^7.12.10",
     "@babel/core": "^7.12.10",
