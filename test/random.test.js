@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import {getRandomInt} from "../src/random.js"; //using the ES6 modules
 
 /**
